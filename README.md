@@ -1,4 +1,5 @@
-# ansible databases -a "cat /etc/*elease"
+##playbook
+  ansible databases -a "cat /etc/*elease"
 - hosts: destinations
   user: root
   tasks:
